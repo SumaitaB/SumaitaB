@@ -7,8 +7,8 @@
 <a href="https://independent.academia.edu/SumaitaBinteShorif" target="blank"><img align="center" src="https://a.academia-assets.com/images/academia-logo-2021.svg" height="70" width="40" /></a>
 <a href="https://medium.com/@sumaita.bs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="70" width="40" /></a>    
 <a href="https://www.instagram.com/keep_yourmouthshut/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Instagram_Glyph_Gradient_RGB_logo.svg"  height="70" width="40" /></a>  
-  <a href="https://www.linkedin.com/in/sumaita-binte-shorif-25a6371ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="70" width="40" /></a> 
-<a href="https://www.facebook.com/sumaita.binteshorif.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="70" width="40" /></a>  
+  <a href="https://www.linkedin.com/in/sumaita-binte-shorif-25a6371ab/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="70" width="40" /></a> 
+<a href="https://www.facebook.com/sumaita.binteshorif.7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="70" width="40" /></a>  
 
   
 Currently, I am a fourth-year Computer Science & Engineering undergraduate student at Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Graphic Design, Digital Art, Social Media and Art, Research in Computer Vision, Digital Image Processing and Cybersecurity along with substantial skills in communication and leadership.
