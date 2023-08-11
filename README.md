@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/sumaita.binteshorif.7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="70" width="40" /></a>  
 
   
-Currently, I am a fourth-year Computer Science & Engineering undergraduate student at Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Graphic Design, Digital Art, Social Media and Art, Research in Computer Vision, Digital Image Processing and Cybersecurity along with substantial skills in communication and leadership.
+Currently, I am a fourth-year Computer Science & Engineering undergraduate student at Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Graphic Design, Digital Art, Social Media and Art, Research in Computer Vision, Digital Image Processing, GAN and Cybersecurity along with substantial skills in communication and leadership.
 
 
 <hr />
