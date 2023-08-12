@@ -16,31 +16,6 @@ Currently, I am a fourth-year Computer Science & Engineering undergraduate stude
 
 <hr />
 
-
-<h3 align="center"> Programming Languages </h4>
-
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png" alt="cplusplus" width="60" height="60"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="60"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/256/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="django" width="60" height="60"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="60" height="45"/> </a> 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="60" height="60"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/mysql.png" alt="c" width="60" height="60"/> </a> 
-</p>
-<hr />
-
-<h3 align="center"> Tools </h4>
-<p align="center">
-<a href="#" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"  width="60" height="60"/></a> 
-<a href="#" rel="noreferrer"> <img src="https://img.icons8.com/color/256/ms-powerpoint.png"  width="60" height="60"/> </a> 
-  <a href="#" rel="noreferrer"> <img src="https://img.icons8.com/color/256/adobe-illustrator.png"  width="60" height="60"/> </a> 
-<a href="#" rel="noreferrer"> <img src="https://img.icons8.com/fluency/256/windows-11.png"  width="60" height="60"/> </a> 
-<a href="#" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="60" height="60"/> </a> 
-<a href="#" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="60" height="60"/> </a> 
-</p>
-<hr />
-
 ### :fire:Stats :
 
 <p align="center">
