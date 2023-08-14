@@ -1,12 +1,10 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&color=9401F7&width=470&height=68&lines=Hey+there!+This+is+Sumaita+%F0%9F%8C%BB" alt="Typing SVG" /></a></b></h1>
 
-<p align="center">Digital Artist | Web Developer | Researcher| Competitive Programming and Tech enthusiast with a passion for Creative Writing |</p>
-
-Currently, I am a fourth-year Computer Science & Engineering undergraduate student at Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Graphic Design, Digital Art, Social Media and Art, Research in Computer Vision, Digital Image Processing, GAN and Cybersecurity along with substantial skills in communication and leadership.
+<p align="center">Digital Artist | Web Developer | Researcher| Competitive Programming and Tech enthusiast with a passion for Creative Writing |</p
 
 
 <hr />
-Connect with me: 
+
 <p align="center">
 <a href="https://scholar.google.com/citations?user=h2VwEOgAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="70" width="40" /></a>    
 <a href="https://orcid.org/0000-0002-8595-5361" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="70" width="40" /></a>
@@ -16,6 +14,8 @@ Connect with me:
   <a href="https://www.linkedin.com/in/sumaita-binte-shorif-25a6371ab/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="70" width="40" /></a> 
 <a href="https://www.facebook.com/sumaita.binteshorif.7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="70" width="40" /></a>  
 
+
+Currently, I am a fourth-year Computer Science & Engineering undergraduate student at Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Graphic Design, Digital Art, Social Media and Art, Research in Computer Vision, Digital Image Processing, GAN and Cybersecurity along with substantial skills in communication and leadership.
 
 <p align="center"> <img src="https://github.com/SumaitaB/SumaitaB/assets/51522304/ba61e282-3c3a-45cc-8e94-5a0dbc89d55e"alt="sumaita_illustration" height="500" width="500" /> </p>
 ### :fire:Stats :
