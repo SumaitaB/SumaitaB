@@ -8,6 +8,7 @@
 <p align="center">
 <a href="https://scholar.google.com/citations?user=h2VwEOgAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="70" width="40" /></a>    
 <a href="https://orcid.org/0000-0002-8595-5361" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="70" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Sumaita-Binte-Shorif" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="70" width="40" /></a> 
 <a href="https://independent.academia.edu/SumaitaBinteShorif" target="blank"><img align="center" src="https://a.academia-assets.com/images/academia-logo-2021.svg" height="70" width="40" /></a>
 <a href="https://medium.com/@sumaita.bs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="70" width="40" /></a>    
 <a href="https://www.instagram.com/keep_yourmouthshut/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Instagram_Glyph_Gradient_RGB_logo.svg"  height="70" width="40" /></a>  
