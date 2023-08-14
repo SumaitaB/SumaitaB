@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! <b>This is Sumaita</b></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&color=9401F7&width=470&height=68&lines=Hey+there!+This+is+Sumaita+%F0%9F%8C%BB" alt="Typing SVG" /></a></b></h1>
 <p align="center">Digital Artist | Web Developer | Researcher| Competitive Programming and Tech enthusiast with a passion for Creative Writing |</p>
 
 <p align="center">
