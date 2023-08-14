@@ -18,7 +18,7 @@
 Currently, I am a fourth-year Computer Science & Engineering undergraduate student at Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Graphic Design, Digital Art, Social Media and Art, Research in Computer Vision, Digital Image Processing, GAN and Cybersecurity along with substantial skills in communication and leadership.
 
 <hr />
-<p align="center"> <img src="https://github.com/SumaitaB/SumaitaB/assets/51522304/ba61e282-3c3a-45cc-8e94-5a0dbc89d55e"alt="sumaita_illustration" height="600" width="600" /> </p>
+<p align="center"> <img src="https://github.com/SumaitaB/SumaitaB/assets/51522304/ba61e282-3c3a-45cc-8e94-5a0dbc89d55e"alt="sumaita_illustration" height="450" width="450" /> </p>
 :fire:Stats :
 
 <p align="center">
