@@ -1,5 +1,8 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&color=9401F7&width=470&height=68&lines=Hey+there!+This+is+Sumaita+%F0%9F%8C%BB" alt="Typing SVG" /></a></b></h1>
 
+<p align="center"> <img src="https://github.com/SumaitaB/SumaitaB/assets/51522304/bc823be4-7345-4fc2-ba57-e668f0b3c821" alt="sumaita_illustration" /> </p>
+
+
 <p align="center">Digital Artist | Researcher| Competitive Programming and Tech enthusiast with a passion for Creative Writing |</p
 
 
