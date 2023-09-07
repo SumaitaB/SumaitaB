@@ -20,10 +20,6 @@ Currently, I am a fourth-year Computer Science & Engineering undergraduate stude
 
 <hr />
 
-<p align="center"> <img src="https://github.com/SumaitaB/SumaitaB/assets/51522304/ebbba2b4-22ea-4d7e-b23b-9804227a8c26" alt="sumaita_illustration" height="500" width="500" /> </p>
-
-
-
 :fire:Stats :
 
 <p align="center">
