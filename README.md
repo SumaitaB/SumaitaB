@@ -1,10 +1,12 @@
 
 <p align="center"> <img src="https://github.com/SumaitaB/SumaitaB/assets/51522304/703b73b2-f4dc-413e-9a0a-e6b65efa35a5" alt="sumaita_illustration" /> </p>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&color=9401F7&width=470&height=68&lines=Hey+there!+This+is+Sumaita+%F0%9F%8C%BB" alt="Typing SVG" /></a></b></h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=25&duration=3500&pause=500&color=A225F7&width=600&lines=Hey+there!+This+is+Sumaita+%F0%9F%8C%BB;I'm+embracing+the+journey+ahead+of+me+%F0%9F%9A%B6%E2%80%8D%E2%99%80%EF%B8%8F;There's+plenty+to+learn+%F0%9F%92%8E;and+a+long+way+to+go+%E2%9B%B0%EF%B8%8F" alt="Typing SVG" /></a></b></h1>
 
 
-<p align="center">Digital Artist | Researcher| Competitive Programming and Tech enthusiast with a passion for Creative Writing |</p
+
+
+<p align="center"><b>Digital Artist | Researcher| Competitive Programming and Tech enthusiast with a passion for Creative Writing |</b></p>
 
 
 <hr />
