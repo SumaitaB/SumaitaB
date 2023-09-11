@@ -24,9 +24,9 @@ Currently, I am a fourth-year Computer Science & Engineering undergraduate stude
 
 :fire:Stats :
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumaitaB" width="420"/>
-</p>
+</p>-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumaitaB&layout=compact" width="420"/>
 </p>
