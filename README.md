@@ -4,7 +4,7 @@
 
 <hr>
 
-<p align="center"><b>Digital Artist | Researcher| Competitive Programming and Tech enthusiast with a passion for Creative Writing </b></p>
+<p align="center"><b>Researcher| Digital Artist | Competitive Programming and Tech enthusiast with a passion for Creative Writing </b></p>
 
 
 <p align="center">
