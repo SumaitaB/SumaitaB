@@ -18,7 +18,7 @@
 <a href="https://www.facebook.com/sumaita.binteshorif.7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="70" width="40" /></a>  
 
 
-I hold a BSc (Hons) degree in Computer Science and Engineering from Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Data Science, Graphic Design, Digital Art, Social Media and Art, Research in Computer Vision, Digital Image Processing, GAN and Cybersecurity along with substantial skills in communication and leadership.
+I hold a BSc (Hons) degree in Computer Science and Engineering from Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Software Engineering, Data Science, Graphic Design, Digital Art, Research in Computer Vision, ML, DL, Digital Image Processing, GAN along with substantial skills in communication and leadership.
 
 <hr />
 
