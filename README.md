@@ -18,7 +18,7 @@
 <a href="https://www.facebook.com/sumaita.binteshorif.7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="70" width="40" /></a>  
 
 
-I am curently working as a Lecturer at Bangladesh University of Business Technology (BUBT) where I teach CSE 327: Software Engineering and CSE 328: SOftware Engineering Laboratory. I hold a BSc (Hons) degree in Computer Science and Engineering from Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Software Engineering,  Graphic Design, Digital Art, Research in Computer Vision, ML, DL, Digital Image Processing along with substantial skills in communication and leadership.
+I am curently working as a Lecturer at Bangladesh University of Business Technology (BUBT) where I teach CSE 327: Software Engineering and CSE 328: Software Engineering Laboratory. I hold a BSc (Hons) degree in Computer Science and Engineering from Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Software Engineering,  Graphic Design, Digital Art, Research in Computer Vision, ML, DL, Digital Image Processing along with substantial skills in communication and leadership.
 
 
 #### I am also an incoming PhD Candidate at Wayne State University for Fall'24 at Detroit, Michigan, USA.
