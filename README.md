@@ -21,7 +21,7 @@
 I am curently working as a Lecturer at Bangladesh University of Business Technology (BUBT) where I teach CSE 327: Software Engineering and CSE 328: Software Engineering Laboratory. I hold a BSc (Hons) degree in Computer Science and Engineering from Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Software Engineering,  Graphic Design, Digital Art, Research in Computer Vision, ML, DL, Digital Image Processing along with substantial skills in communication and leadership.
 
 
-#### I am also an incoming PhD Candidate at Wayne State University for Fall'24 at Detroit, Michigan, USA.
+#### I am also an incoming PhD Student at Wayne State University for Fall'24 at Detroit, Michigan, USA.
 <hr />
 
 
