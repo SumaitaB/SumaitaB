@@ -4,7 +4,7 @@
 
 <hr>
 
-<p align="center"><b>| Researcher| Digital Artist | Former Lecturer | Competitive Programming and Tech enthusiast with a passion for Creative Writing </b></p>
+<p align="center"><b>| PhD Candidate| Digital Artist | Focused on software engineering, while also exploring the creative side. </b></p>
 
 
 <p align="center">
@@ -18,9 +18,11 @@
 <a href="https://www.facebook.com/sumaita.binteshorif.7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="70" width="40" /></a>  
 
 
-Currently, I am working as a Graduate Research Assistant and full-time PhD. Student at Wayne State University in Detroit, Michigan, USA. I worked as a Lecturer at Bangladesh University of Business and Technology (BUBT) where I taught CSE 327: Software Engineering and CSE 328: Software Engineering Laboratory. I hold a BSc (Hons) degree in Computer Science and Engineering from Jahangirnagar University, Dhaka, Bangladesh with extensive enthusiasm in Competitive Programming, Software Engineering,  Graphic Design, Digital Art, Research in Computer Vision, ML, DL, Digital Image Processing along with substantial skills in communication and leadership.
+Currently, I am a PhD Candidate at the Department of Computer Science working as a Graduate Resarch Assistant at the Software Engineering Analytics Lab (SEAL) at Wayne State University in Detroit, Michigan, USA. I hold a BSc (Hons) degree in Computer Science and Engineering from Jahangirnagar University, Dhaka, Bangladesh.
 
-#### As a PhD student at Wayne State University starting in Fall 2024 in Detroit, Michigan, USA, I aspire to become an exceptionally skilled computer professional and researcher, prepared to tackle any challenges that may come my way.
+Outside of my academic and professional work, I enjoy graphic design, digital art, and creative communication, and I value collaboration and leadership in both creative and technical settings. I love making friends and enjoy exploring music and pop culture.
+
+#### As a PhD student, I aim to continue growing as a computer professional and researcher, ready to take on new challenges and contribute meaningfully to the field.
 
 <hr />
 
