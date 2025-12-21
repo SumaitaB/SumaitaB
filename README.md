@@ -4,7 +4,7 @@
 
 <hr>
 
-<p align="center"><b>| PhD Candidate| Digital Artist | Focused on software engineering, while also exploring the creative side.| </b></p>
+<p align="center"><b>| PhD Candidate| Digital Artist | Focused on software engineering, while also exploring the creative side| </b></p>
 
 
 <p align="center">
