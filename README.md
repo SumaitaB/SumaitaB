@@ -27,18 +27,5 @@ Outside of my academic and professional work, I enjoy graphic design, digital ar
 <hr />
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumaitaB" width="420"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumaitaB&layout=compact" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumaitaB&show_icons=true" width="420"/>
-</p>
-
-
-
 
 
