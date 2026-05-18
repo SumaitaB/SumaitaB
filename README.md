@@ -4,7 +4,7 @@
 
 <hr>
 
-<p align="center"><b>| PhD Candidate| Digital Artist | Focused on software engineering, while also exploring the creative side| </b></p>
+<p align="center"><b>| PhD Candidate| Digital Artist | Focused on Software Engineering, while also exploring the creative side| </b></p>
 
 
 <p align="center">
@@ -18,7 +18,7 @@
 <a href="https://www.facebook.com/sumaita.binteshorif.7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="70" width="40" /></a>  
 
 
-Currently, I am a PhD Candidate at the Department of Computer Science working as a Graduate Research Assistant at the Software Engineering Analytics Lab (SEAL) at Wayne State University in Detroit, Michigan, USA. I hold a BSc (Hons) degree in Computer Science and Engineering from Jahangirnagar University, Dhaka, Bangladesh.
+Currently, I am a PhD Candidate at the Department of Computer Science working as a Graduate Research Assistant at the Software Engineering Analytics Lab (SEAL) at Wayne State University in Detroit, Michigan, USA. I hold a Master's Degree in Computer Science from Wayne State University and a BSc (Hons) degree in Computer Science and Engineering from Jahangirnagar University, Dhaka, Bangladesh.
 
 Outside of my academic and professional work, I enjoy graphic design, digital art, and creative communication, and I value collaboration and leadership in both creative and technical settings. I love making friends and enjoy exploring music and pop culture.
 
